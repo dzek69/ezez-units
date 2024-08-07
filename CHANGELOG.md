@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [UNRELEASED]
 (nothing yet)
 
+## [0.1.0] - 2024-08-07
+### Added
+- `msToDuration` function
+
 ## [0.0.1] - 2024-08-04
 ### Added
 - initial version with `absHumidity` function

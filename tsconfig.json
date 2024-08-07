@@ -22,7 +22,7 @@
         "isolatedModules": true,
         "jsx": "react-jsx",
         "lib": [
-            "es2019",
+            "es2020",
             "dom"
         ],
         "mapRoot": null,
